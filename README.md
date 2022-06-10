@@ -1,0 +1,1 @@
+Sample client-server implementation of the OAuth 1.0 protocol.

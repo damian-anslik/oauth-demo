@@ -1,1 +1,5 @@
 venv/
+
+# Ignore generated python cache files
+*.pyc
+*cache*
